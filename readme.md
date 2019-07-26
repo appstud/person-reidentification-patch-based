@@ -3,7 +3,7 @@ This is unofficial implementation in python of the CVPR 2013 paper Unsupervised 
 
 ## Installation
 1) Install Python 3.6
-2) Install Opencv, sklearn
+2) Install Opencv, sklearn, imutils
 3) Clone this repository
 4) Download the dataset PRIDE and keep it in the root folder
 4) The dataset can be downloaded from: 
@@ -19,4 +19,4 @@ This is unofficial implementation in python of the CVPR 2013 paper Unsupervised 
 
 **Citations:**
 
-[1] Zhao R, Ouyang W, Wang X. Unsupervised salience learning for person re-identification. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2013 (pp. 3586–3593).
+[1] Zhao R, Ouyang W, Wang X. Unsupervised salience learning for person re-identification. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2013 (pp. 3586â€“3593).
