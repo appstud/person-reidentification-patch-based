@@ -185,7 +185,7 @@ def extractDescriptorsForCamPRIDE(cam):
         if(index%10==0):
             print("Descriptor of image "+str(index) +"/"+str(len(images))+" extracted")
     print("\n Descriptors are being saved")
-    sio.savemat(os.path.join(pathOfImages,"_"cam+".mat"),{"Gallery":gallery,"personID":personID})
+    sio.savemat(os.path.join(pathOfImages,"_"+cam+".mat"),{"Gallery":gallery,"personID":personID})
     
 
 def main(args):
